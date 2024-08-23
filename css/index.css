@@ -1,0 +1,99 @@
+body {
+    background: #FFEED9;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.samar a {
+    color: black;
+
+}
+
+.samar {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    gap: 200px;
+    margin-left: 700px;
+    gap: 50px;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 32px;
+}
+
+.holoo {}
+
+.gal {
+    margin-left: 1500px ;
+    margin-bottom: 1000px;
+    display:flex
+}
+
+.har {
+    color: #403930;
+
+    font-family: Eczar;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 125%;
+    /* 80px */
+    letter-spacing: 1.28px;
+    width: 700px;
+    margin-left: 700px;
+}
+
+.top {
+    display: flex;
+    padding: 12px 24px;
+    justify-content: center;
+    gap: 1px;
+    border-radius: 16px;
+    background: #FFDDBF;
+    width: 100px;
+    margin-left: 700px;
+}
+
+.gol {
+    display: flex;
+    width: 270px;
+    padding: 24px 40px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 16px;
+    background: #4E5E80;
+    font-size: 30px;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin-left: 700px;
+    margin-top: 50px;
+}
+
+.folo {
+    margin-left: 1200px;
+    padding-bottom: 00px ;
+    display: flex;
+    width: 270px;
+    padding: 24px 40px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 16px;
+    background: #4E5E80;
+    font-size: 30px;
+    color: white;
+    font-family: Arial, sans-serif;
+
+}
+.kasa {
+    background: rgba(255, 221, 191, 0.50);
+}
+.tal {
+    margin-left: 900px ;
+    margin-bottom: 2000px;
+}

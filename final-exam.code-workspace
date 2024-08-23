@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "final-exam",
+			"path": "."
+		},
+		{
+			"name": "images 14",
+			"path": "../../Downloads/images 14"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "final-exam",
+		"liveServer.settings.port": 5501
+	}
+}
